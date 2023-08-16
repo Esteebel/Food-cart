@@ -1,0 +1,36 @@
+body{
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+table{
+    width: 100%;
+    border: none;
+    margin-top: 150px;
+    text-align: center;
+}
+table, th, td{
+    border: 1px solid black;
+}
+
+.headn{
+    margin-top: 30px;
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(249, 5, 176);
+    font-weight: bolder;
+    word-spacing: 5px;
+    font-size: 40px;
+}
+.dai{
+    margin-left:40px ;
+    margin-top: 70px;
+}
+.tim{
+    margin-left: 150px;
+    margin-top: 70px;
+}
+.btn{
+    margin-left: 200px;
+    margin-top: 70px;
+}
